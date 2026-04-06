@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BGMI</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>🎮 GameVerse</header>
+
+<div class="container">
+<img src="https://play-lh.googleusercontent.com/PmrkTsvieMP34xeRjGh5EPOA7Bsk3PpPZvJTq585VffPHWgsSlLroMP2gKzmQwTF5FUXPlb7SiwVgbyUXyTKbw=w5120-h2880-rw">
+
+<h2>BGMI</h2>
+<p><b>Definition:</b> Battle royale survival game where players fight to be the last one standing.</p>
+
+<ul>
+<li>Multiplayer battles</li>
+<li>Realistic graphics</li>
+<li>Large maps</li>
+</ul>
+<center>
+<button onclick="downloadGame()">Download</button>
+
+<h3>Rate</h3>
+<button onclick="rate(1)">⭐</button>
+<button onclick="rate(2)">⭐⭐</button>
+<button onclick="rate(3)">⭐⭐⭐</button>
+<button onclick="rate(4)">⭐⭐⭐⭐</button>
+<button onclick="rate(5)">⭐⭐⭐⭐⭐</button>
+
+<p id="rating"></p>
+
+<a href="index.html" class="back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
