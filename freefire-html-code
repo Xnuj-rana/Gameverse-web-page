@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Free Fire</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>🎮 GameVerse</header>
+
+<div class="container">
+<img src="https://play-lh.googleusercontent.com/gsL_iVvq_6HLkdqvN8mklNp_usklnn5VC-Xy8cHZ-dgLBrG658uc0pA0m1FHXHip85yiLmxpReJ5nk9nSjrYEw=w5120-h2880-rw">
+
+<h2>Free Fire</h2>
+<p><b>Definition:</b> Fast-paced battle royale game with short matches.</p>
+
+<ul>
+<li>Quick gameplay</li>
+<li>Unique characters</li>
+<li>Easy controls</li>
+</ul>
+<center>
+<button onclick="downloadGame()">Download</button>
+
+<h3>Rate</h3>
+<button onclick="rate(1)">⭐</button>
+<button onclick="rate(2)">⭐⭐</button>
+<button onclick="rate(3)">⭐⭐⭐</button>
+<button onclick="rate(4)">⭐⭐⭐⭐</button>
+<button onclick="rate(5)">⭐⭐⭐⭐⭐</button>
+
+<p id="rating"></p>
+
+<a href="index.html" class="back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
