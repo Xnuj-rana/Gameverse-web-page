@@ -46,6 +46,12 @@ Users can rate games using star buttons.
 
 ![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125853.png)
 
+### 🔍 Search Feature
+image alt  
+Filters games in real-time based on user input.
+
+![img alt]()
+
 ---
 
 ## 🎯 Learning Outcomes
