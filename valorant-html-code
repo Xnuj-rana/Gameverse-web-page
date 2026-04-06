@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Valorant</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>🎮 GameVerse</header>
+
+<div class="container">
+<img src="https://assets.xboxservices.com/assets/4e/bc/4ebcb533-e184-42f3-833b-9aa47a81f39e.jpg?n=153142244433_Poster-Image-1084_1920x720.jpg">
+
+<h2>Valorant</h2>
+<p><b>Definition:</b> Tactical FPS game with unique agents and abilities.</p>
+
+<ul>
+<li>Team strategy</li>
+<li>Agent abilities</li>
+<li>Competitive gameplay</li>
+</ul>
+<center>
+<button onclick="downloadGame()">Download</button>
+
+<h3>Rate</h3>
+<button onclick="rate(1)">⭐</button>
+<button onclick="rate(2)">⭐⭐</button>
+<button onclick="rate(3)">⭐⭐⭐</button>
+<button onclick="rate(4)">⭐⭐⭐⭐</button>
+<button onclick="rate(5)">⭐⭐⭐⭐⭐</button>
+
+<p id="rating"></p>
+
+<a href="index.html" class="back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
