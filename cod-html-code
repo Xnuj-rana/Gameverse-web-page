@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Call of Duty</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>🎮 GameVerse</header>
+
+<div class="container">
+<img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/cod-mobile-3.jpg">
+
+<h2>Call of Duty</h2>
+<p><b>Definition:</b> Popular first-person shooter game series.</p>
+
+<ul>
+<li>Realistic weapons</li>
+<li>Multiplayer modes</li>
+<li>High-quality graphics</li>
+</ul>
+
+<center>
+<button onclick="downloadGame()">Download</button>
+
+<h3>Rate</h3>
+<button onclick="rate(1)">⭐</button>
+<button onclick="rate(2)">⭐⭐</button>
+<button onclick="rate(3)">⭐⭐⭐</button>
+<button onclick="rate(4)">⭐⭐⭐⭐</button>
+<button onclick="rate(5)">⭐⭐⭐⭐⭐</button>
+
+<p id="rating"></p>
+
+<a href="index.html" class="back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
