@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Asphalt 9</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>🎮 GameVerse</header>
+
+<div class="container">
+<img src="https://mkt-web.gameloft.com/static/4064951ee135480e3c20b8f4fe87a4cd.jpg">
+
+<h2>Asphalt 9</h2>
+<p><b>Definition:</b> High-speed arcade racing game.</p>
+
+<ul>
+<li>Real cars</li>
+<li>Fast gameplay</li>
+<li>Multiplayer races</li>
+</ul>
+<center>
+<button onclick="downloadGame()">Download</button>
+
+<h3>Rate</h3>
+<button onclick="rate(1)">⭐</button>
+<button onclick="rate(2)">⭐⭐</button>
+<button onclick="rate(3)">⭐⭐⭐</button>
+<button onclick="rate(4)">⭐⭐⭐⭐</button>
+<button onclick="rate(5)">⭐⭐⭐⭐⭐</button>
+
+<p id="rating"></p>
+
+<a href="index.html" class="back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
