@@ -50,7 +50,7 @@ Users can rate games using star buttons.
 image alt  
 Filters games in real-time based on user input.
 
-![img alt]()
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/a47b55221fdec9d6821024f09dd11691beac2f6b/Screenshot%202026-04-07%20000400.png)
 
 ---
 
