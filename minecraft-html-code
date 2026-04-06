@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Minecraft</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>🎮 GameVerse</header>
+
+<div class="container">
+<img src="https://cms-assets.xboxservices.com/assets/b5/a8/b5a8f1d3-4a17-49f8-b401-a618ef2c788f.jpg?n=Minecraft_Sneaky-Slider-1084_Adidas-World_1600x675.jpg">
+
+<h2>Minecraft</h2>
+<p><b>Definition:</b> Sandbox game where players build and explore block worlds.</p>
+
+<ul>
+<li>Creative mode</li>
+<li>Survival mode</li>
+<li>Multiplayer servers</li>
+</ul>
+
+<center>
+<button onclick="downloadGame()">Download</button>
+
+<h3>Rate</h3>
+<button onclick="rate(1)">⭐</button>
+<button onclick="rate(2)">⭐⭐</button>
+<button onclick="rate(3)">⭐⭐⭐</button>
+<button onclick="rate(4)">⭐⭐⭐⭐</button>
+<button onclick="rate(5)">⭐⭐⭐⭐⭐</button>
+
+<p id="rating"></p>
+
+<a href="index.html" class="back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
