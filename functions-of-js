@@ -1,0 +1,22 @@
+window.onload = function() {
+    alert("🎮 Welcome to GameVerse!");
+}
+
+function searchGame() {
+    let input = document.getElementById("search").value.toLowerCase();
+    let cards = document.getElementsByClassName("card");
+
+    for (let i = 0; i < cards.length; i++) {
+        let title = cards[i].getElementsByTagName("h3")[0].innerText.toLowerCase();
+        cards[i].style.display = title.includes(input) ? "block" : "none";
+    }
+}
+
+function rate(stars) {
+    document.getElementById("rating").innerHTML =
+    "You rated: " + stars + " ⭐";
+}
+
+function downloadGame() {
+    alert("Redirecting to download...");
+}
