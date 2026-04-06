@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GameVerse</title>
+<link rel="stylesheet" href="stylesheet1.css">
+</head>
+<body>
+
+<header>Xnuj 🎮 GameVerse</header>
+
+<input type="text" id="search" placeholder="Search game..." onkeyup="searchGame()">
+
+<div class="games">
+
+<!-- BGMI -->
+<div class="card">
+<img src="https://play-lh.googleusercontent.com/PmrkTsvieMP34xeRjGh5EPOA7Bsk3PpPZvJTq585VffPHWgsSlLroMP2gKzmQwTF5FUXPlb7SiwVgbyUXyTKbw=w5120-h2880-rw">
+<h3>BGMI</h3>
+<a href="bgmi.html">Explore</a>
+</div>
+
+<!-- FREE FIRE -->
+<div class="card">
+<img src="https://play-lh.googleusercontent.com/gsL_iVvq_6HLkdqvN8mklNp_usklnn5VC-Xy8cHZ-dgLBrG658uc0pA0m1FHXHip85yiLmxpReJ5nk9nSjrYEw=w5120-h2880-rw">
+<h3>Free Fire</h3>
+<a href="freefire.html">Explore</a>
+</div>
+
+<!-- GTA 5 -->
+<div class="card">
+<img src="https://cdn1.epicgames.com/offer/b0cd075465c44f87be3b505ac04a2e46/EGS_GrandTheftAutoVEnhanced_RockstarNorth_S1_2560x1440-906d8ae76a91aafc60b1a54c23fab496">
+<h3>GTA 5</h3>
+<a href="gta5.html">Explore</a>
+</div>
+
+<!-- MINECRAFT -->
+<div class="card">
+<img src="https://cms-assets.xboxservices.com/assets/b5/a8/b5a8f1d3-4a17-49f8-b401-a618ef2c788f.jpg?n=Minecraft_Sneaky-Slider-1084_Adidas-World_1600x675.jpg">
+<h3>Minecraft</h3>
+<a href="minecraft.html">Explore</a>
+</div>
+
+<!-- COD -->
+<div class="card">
+<img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/games/game-details/call-of-duty/mobile/cod-mobile-3.jpg">
+<h3>Call of Duty</h3>
+<a href="cod.html">Explore</a>
+</div>
+
+<!-- VALORANT -->
+<div class="card">
+<img src="https://assets.xboxservices.com/assets/4e/bc/4ebcb533-e184-42f3-833b-9aa47a81f39e.jpg?n=153142244433_Poster-Image-1084_1920x720.jpg">
+<h3>Valorant</h3>
+<a href="valorant.html">Explore</a>
+</div>
+
+<!-- ASPHALT -->
+<div class="card">
+<img src="https://mkt-web.gameloft.com/static/4064951ee135480e3c20b8f4fe87a4cd.jpg">
+<h3>Asphalt 9</h3>
+<a href="asphalt.html">Explore</a>
+</div>
+
+<!-- AMONG US -->
+<div class="card">
+<img src="https://www.innersloth.com/wp-content/uploads/2025/09/comicnewrolesHorizontal.png">
+<h3>Among Us</h3>
+<a href="amongus.html">Explore</a>
+</div>
+
+<!-- CLASH OF CLANS -->
+<div class="card">
+<img src="https://i.ytimg.com/vi/qilhh7xzqkw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2BTs6-icq-YqBh7l7cN_njlkmYA">
+<h3>Clash of Clans</h3>
+<a href="clashofclans.html">Explore</a>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
