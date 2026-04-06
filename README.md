@@ -30,18 +30,21 @@ The website displays popular games with images, features, download options, and 
 image alt  
 Displays all games in a colorful card layout with images and search bar.
 
+![image alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125717.png)
+
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125738.png)
+
 ### 🎮 Game Page Example
 image alt  
 Shows detailed information about a selected game with image and features.
+
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125845.png)
 
 ### ⭐ Rating System
 image alt  
 Users can rate games using star buttons.
 
-### 🔍 Search Feature
-image alt  
-Filters games in real-time based on user input.
-
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125853.png)
 
 ---
 
